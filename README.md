@@ -1,6 +1,6 @@
 <h1 align="center">Zelda Memory Card Game </h1>
 
-![Imagem](./images/ScreenShot.png)
+![Imagem](./images/Screenshot.png)
 
 > Projeto finalizado.
 
