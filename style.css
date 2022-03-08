@@ -13,10 +13,8 @@ body{
   justify-content: center;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #ffffff;
-  background-image:  radial-gradient(#c00 0.9px, transparent 0.9px), radial-gradient(#c00 0.9px, #ffffff 0.9px);
-  background-size: 36px 36px;
-  background-position: 0 0,18px 18px;
+  background-image:url("/images/background.jpg");
+  background-size: cover;
 }
 
 h1{
