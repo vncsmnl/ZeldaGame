@@ -35,7 +35,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/vncsmnl">
-        <img border="2" src="https://avatars.githubusercontent.com/u/59481808?v=4" width="100px;" alt="Foto do Vinícius Manoel no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/59481808?v=4" width="100px;" alt="Foto do Vinícius Manoel no GitHub"/><br>
         <sub>
           <b>Vinícius Manoel</b>
         </sub>
